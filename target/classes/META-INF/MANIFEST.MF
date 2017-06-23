@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: JasyptProperties
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: D123577
+Implementation-Vendor-Id: com.srikanth.sring.jaspyt
+Build-Jdk: 1.8.0_72
+Implementation-URL: http://projects.spring.io/spring-boot/JasyptProper
+ ties/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
